@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B49DB905-11CD-4410-BDC2-B60591780220"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48611B08-2C99-4A31-AE8B-17F27FD55B08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GenericsPractice/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "48611B08-2C99-4A31-AE8B-17F27FD55B08 - 7db99ff1032a4414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GenericsPractice.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GenericsPractice.ViewController"
+                  moduleName = "GenericsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/External%20SS/GenericsPractice/GenericsPractice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "48611B08-2C99-4A31-AE8B-17F27FD55B08 - dc799d79e96382c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GenericsPractice.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GenericsPractice.ViewController"
+                  moduleName = "GenericsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/External%20SS/GenericsPractice/GenericsPractice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "48611B08-2C99-4A31-AE8B-17F27FD55B08 - ef8cb9fa6af4cb93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GenericsPractice.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GenericsPractice.ViewController&gt;"
+                  moduleName = "GenericsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/External%20SS/GenericsPractice/GenericsPractice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "48611B08-2C99-4A31-AE8B-17F27FD55B08 - c6990e620966efca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GenericsPractice.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GenericsPractice.ViewController&gt;"
+                  moduleName = "GenericsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/External%20SS/GenericsPractice/GenericsPractice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "48611B08-2C99-4A31-AE8B-17F27FD55B08 - bc658eed7b76a965"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GenericsPractice.ViewController.__deallocating_deinit"
+                  moduleName = "GenericsPractice"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/External%20SS/GenericsPractice/GenericsPractice/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
